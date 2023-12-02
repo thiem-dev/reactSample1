@@ -9,11 +9,13 @@ function MainContent() {
 
 
 
+
 // const h1Elem = document.createElement("h1");
 // const root = document.getElementById("root")
 
 // h1Elem.textContent = "some content"
-// h1Elem.classList.ad('header')
+// // h1.className = "header"
+// h1Elem.className = "header" 
 // root.appendChild(h1Elem)
 
 
