@@ -10,13 +10,20 @@ function MainContent() {
 
 
 
-// const h1Elem = document.createElement("h1");
+// const navBar = (
+//     <nav>
+//         <h1>Brannd</h1>
+//         <ul>
+//             <li>Pricing</li>
+//             <li>About</li>
+//             <li>Contact</li>
+//         </ul>
+//     </nav>
+// )
+
 // const root = document.getElementById("root")
 
-// h1Elem.textContent = "some content"
-// // h1.className = "header"
-// h1Elem.className = "header" 
-// root.appendChild(h1Elem)
+// ReactDOM.render(navBar, root)
 
 
 export default MainContent
